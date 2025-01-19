@@ -30,6 +30,8 @@ scoring 4 or above continuing their service. Conversely, nearly all customers wi
 while 16.1% of those with a score of 3 have also left the company. This correlation highlights the importance of
 customer satisfaction in retention strategies.
 
+![](https://github.com/RaphaelSanbar/Churn_Rate/blob/f58992c3d805798a5ef7f7232b61cb30b36b1c29/Screenshot%202025-01-03%20194355.png)
+
 Fig. 1. Bar chart illustrating the distribution of customer churn reasons, with a significant majority attributed to competition, highlighting its dominance as the primary driver of customer churning.
 
 #### 3.1 Customer Information
