@@ -121,5 +121,4 @@ Microsoft Power BI: Used to generate insight through visuals from the dataset as
 and 4, as well as double checking the dataset with tools such as “Column Distribution” and “Column
 Profile”.
 
-Dataset Source: Kaggle – Why Do Customers Leave? Can You Spot the Churners? (https://www.kaggle.com/datasets/hassanelfattmi/why-do-customers-leave-can-you-spot-the-
-churners?select=Status_Analysis.csv)
+Dataset Source: Kaggle – Why Do Customers Leave? Can You Spot the Churners? (https://www.kaggle.com/datasets/hassanelfattmi/why-do-customers-leave-can-you-spot-the-churners?select=Status_Analysis.csv)
