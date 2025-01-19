@@ -80,6 +80,8 @@ with the notable exception of customers opting for online security services. Des
 satisfaction scores, these customers exhibit reduced churn rates, suggesting that specific features might offset
 dissatisfaction in other areas.
 
+![](https://github.com/RaphaelSanbar/Churn_Rate/blob/9be9c932417e43bda2bf1b9c88387a87c33f7fd5/Screenshot%202025-01-03%20201024.png)
+
 Fig. 4. Pie chart illustrating the distribution of satisfaction scores among customers with and without online security, highlighting noticeably lower satisfaction scores for those with online security.
 
 ## IV. Conclusion
