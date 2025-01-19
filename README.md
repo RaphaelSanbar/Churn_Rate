@@ -69,6 +69,8 @@ Among promotional offers, Offer E stands out with a high churn rate of 52.92%. I
 less popular, has an impressively low churn rate of 6.73%. This discrepancy indicates potential issues with the
 design or implementation of Offer E.
 
+![](https://github.com/RaphaelSanbar/Churn_Rate/blob/d5a041157c9d1280c2befcb85c99edf747343ff6/Screenshot%202025-01-03%20200658.png)
+
 Fig. 3. Bar chart depicting the churn rate relative to the number of referrals, revealing a clear trend of decreasing churn rates as the number of referrals increases.
 
 ## B. Satisfaction score
