@@ -43,6 +43,8 @@ influence churn rates, with those having no dependants experiencing a 35.55% chu
 steeply as the number of dependants increases, culminating in a 50% churn rate for customers with seven
 dependants.
 
+![](https://github.com/RaphaelSanbar/Churn_Rate/blob/b3b1d1a3ede9ed1771306bcaf92f87eb37f7e5f5/Screenshot%202025-01-03%20195557.png)
+
 Fig. 2. Area chart showing the relative churn rate by age, emphasizing a sharp decline in customer retention among customers aged 65 and older.
 
 #### 3.2 Online Services
